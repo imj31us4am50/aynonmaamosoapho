@@ -1,0 +1,157 @@
+<html>
+<head>
+  <title>O broasca</title>
+  <style>
+  	body{
+  		background-image: url("nature.jpg");
+  		background-repeat: no-repeat;
+  		background-size:cover;
+  		background-attachment: fixed;
+  	}
+  	h1{
+  		padding-left:300px;
+  		font-size:35px;
+  		text-align:center;
+  		font-family: Georgia ,serif;
+  		border: 2px solid rgba(255, 255, 255,0.4);
+  		background-color: rgba(255, 255, 255,0.4);
+  		padding: 10px;
+  	    width:600px;
+  	    position:relative;
+  	    left:25%; top:3.5%;
+  	}
+    h2{
+  		padding-left:300px;
+  		 
+  		text-align:center;
+  		font-family: Georgia ,serif;
+  		border: 2px solid rgba(255, 255, 255,0.4);
+  		background-color: rgba(255, 255, 255,0.4);
+  		padding: 10px;
+  	    width:600px;
+  	    position:relative;
+  	    left:5%;
+  	}
+  	h3{
+  		padding-left:300px;
+  		font-size:25px;
+  		text-align:center;
+  		font-family: Georgia ,serif;
+  		border: 2px solid rgba(255, 255, 255,0.4);
+  		background-color: rgba(255, 255, 255,0.4);
+  		padding: 10px;
+  	    width:600px;
+  	    position:relative;
+  	    left:47%; bottom: 72%; 
+  	}
+  	p.yomamsaho{
+        word-wrap:break-word;
+  		color:black;
+  		width:800px;
+  		font-size:30px;
+  		background: rgba(255, 255, 255,0.4);
+  		position:relative;
+  		bottom:72%; left:40%;
+  	
+  	}
+  	a.yomamsaho {
+  		text-decoration:none;
+  		font-size: 30px;
+  		position:relative;
+  		left:62.5%; bottom:60%; z-index:+1;
+
+  	}
+  	a.annaoop{
+  		text-decoration:none;
+  		font-size: 30px;
+  		position:relative;
+  		left:62.5%; top:10%;
+  	}
+  	a.aeiou{
+  		text-decoration:none;
+  		font-size: 30px;
+  		position:relative;
+  		right:30.5%; bottom: 292%;
+  	}
+  	a:link, a:visited{
+  		color:black;
+  		background-color: rgb(179, 191, 73);
+  		border:2px solid black;
+  		padding:3px;
+  	}
+  	a:hover, a:active{
+  		color:white;
+  		background-color: rgb(173, 186, 61);
+        border: 2px solid white;
+        padding:3px;
+  	}
+  	img.annaoop{
+  		height: 500px;
+  		width: 500px;
+  	    float: right;
+  	    position:relative;
+  	    top:10%;
+  	}
+  	img.yomamsaho{
+        height: 400px;
+        width:500px;
+        position:relative;
+        left: 48.5%; top:3%;
+  	}
+  	img.aeiou{
+  		height:700px;
+  		width:430px;
+  		position:relative;
+  		bottom:177%; left:2%;
+  	}
+  	p{
+  		word-wrap:break-word;
+  		color:black;
+  		width:800px;
+  		font-size:30px;
+  		background: rgba(255, 255, 255,0.4);
+  	}
+  	li{
+  		word-wrap:break-word;
+  		color:black;
+  		width:800px;
+  		font-size:30px;
+  		background: rgba(255, 255, 255,0.4);
+  		position:relative;
+  		right:3%;
+  	}
+  	.muv{
+  		position:relative;
+  		bottom:75%;
+  	}
+  	h6{
+  		color:rgb(29, 82, 42);
+  		word-wrap:break-word;
+  		font-family:"Times New Roman";
+  		position:relative;
+  		bottom:205%; left:40%;
+  		font-size:30px;
+  	  }
+  </style>
+</head>
+<body>
+  
+  <h1><im>Bufo Viridis (Broasca Raioasa Verde)</im></h1>
+  <img src="bufoviridis.jpg" class="annaoop"> <a target="_blank" class="annaoop" href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBufotes&psig=AOvVaw0Q2behh1f11xKgObU1RKk6&ust=1635349447090000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjd-NW16PMCFQAAAAAdAAAAABAJ">Sursa Imagine</a>
+  
+  <p>      Broasca râioasă verde (Bufotes viridis, Bufo viridis) numită și broască râioasă de piatră, este o broască fără coadă din familia bufonide (Bufonidae), răspândită în Europa Centrală și de Sud, Asia de vest și centrală până în Kazahstan. În România și Republica Moldova este găsită pretutindeni, mai ales în zonele de stepă, de câmpie și de deal și pe lângă locuința omului; evită zonele împădurite. În regiunile muntoase este prezentă până la altitudinea de 1700 m. Este cea mai răspândită specie de amfibieni din localitățile rurale și urbane, întâlnindu-se mai ales pe terenurile agricole, unde își găsește hrana (în special insecte). Suportă bine seceta și chiar (lucru excepțional pentru amfibii) apa salmastră. Se hrănește cu râme, melci, păianjeni, insecte și larvele lor. Este o broască folositoare consumând multe coleoptere (gândaci de Colorado etc.) și coropișnițe dăunătoare agriculturii.</p> 
+  <br>
+  <a target="_blank" class="yomamsaho" href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.piqsels.com%2Fro%2Fpublic-domain-photo-fyxna&psig=AOvVaw2l-SCD7tULQ-yzfWJ3mq2y&ust=1635357430486000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDLsuzT6PMCFQAAAAAdAAAAABAD">Sursa Imagine</a>
+  <img src="reproducere.jpg" class="yomamsaho"> 
+  <h2 class="muv">Reproducerea lor</h2>
+  <ul class="muv">
+  	<li>După împerechere, femela depune 10000-14000 ouă mici (1½ mm în diametru), de culoare neagră, dispuse în două șiraguri în cordoanele gelatinoase și transparente, cu lungimea de 3-4 m.</li>
+  	<li>După 3-5 zile, din ouăle depuse eclozează larve mici (mormolocii) de 2-3 mm, a căror dezvoltare ajunge până la 45 de zile. Mormolocii se transformă în broscuțe mici care părăsesc lacurile într-un număr enorm imediat după ploaie.</li>
+  	<li>Maturitatea sexuală o atinge la 2-3 ani. Ajunge până la 11 cm lungime; obișnuit, lungimea medie a corpului este de 7 cm; masculul este mai mic decât femela. În condiții naturale poate trăi 7-12 ani, iar în captivitate 17 ani.</li>
+  </ul>
+  <h3>Infatisare</h3>
+  <p class="yomamsaho">Ochii au pupila orizontală și irisul verzui stropit cu negru. În urma ochilor, pe cele două laturi ale cefei, se află două glande mari și proeminente, numite glande parotide (sau parotoide); secreția lor este veninoasă și servește ca un mijloc de apărare împotriva răpitorilor. Tegumentul este prevăzut cu ridicături în formă de negi (verucozități) asemănătoare cu pielea bolnavilor de râie, de unde și denumirea de "broască râioasă". Coloritul dorsal cu desen variabil: pe un fond alb-gălbui, cenușiu-verzui, gălbui sau cu nuanțe roz, apar pete mari neregulate, măslinii sau verzi, uneori mărginite cu negru, petele se unesc între ele, formând un desen caracteristic. Verucozitățile mai proeminente au vârfurile roșii. Abdomenul este alb-murdar, pătat cu pete închise. Masculul are un sac vocal mare sub gușă, numit rezonator, care când se umflă depășește capul ca volum; în apă el emite un tril melodios și neîntrerupt, clar constând din: urrrrr-urrrrrr-urrrrrr, asemănător țârâitului greierilor, dar cu mult mai răsunător</p>
+  <img src="viridis2.jpg" class="aeiou"> <a target="_blank" class="aeiou" href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Fbartsmit%2F42325441925%2F&psig=AOvVaw0Q2behh1f11xKgObU1RKk6&ust=1635349447090000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjd-NW16PMCFQAAAAAdAAAAABAu">Sursa Imagine</a> 
+  <h6>Sfarsitul temei HTMLnr1.</h6> <br>
+</body>
+</html>
